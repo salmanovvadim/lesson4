@@ -1,0 +1,96 @@
+body{
+  font-family: Verdana;
+  color: #06389e;
+  background-color: #e6e6e6;
+  margin-top: 0;
+  width: 800px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+h3,h4{
+  text-align: center;
+  text-transform: uppercase;
+  color: #494d56;
+}
+h3{
+  margin-top: 0;
+}
+#shapka,#slogan{
+  font-family: Arial;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+#slogan{
+  padding: 5px 0 5px 0;
+}
+.foot{
+  color: white;
+  font-size: 0.6em;
+  text-align: center;
+}
+.foot a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+}
+ul,.content{
+  font-size: 0.7em;
+}
+ul{
+  font-family: Tahoma;
+  letter-spacing: 1pt;
+  line-height: 1.5em;
+  text-align: left;
+}
+.content{
+  padding: 10px 15px 10px 15px;
+  text-align: justify;
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+}
+.content a{
+  text-decoration: none;
+  color: #494d56;
+  font-weight: bolder;
+}
+ol{
+  font-size: 0.8em;
+  text-align-last: left;
+}
+ol li a{
+  color: gray;
+}
+.sov{
+  background-color: #6699ff;
+  border-spacing: 0;
+  border-left: 0;
+  padding:0;
+  border: 1px;
+  width: 800px;
+  text-align: center;
+  border-color: #6699FF;
+  margin: 0;
+}
+.pred{
+border-spacing: 0;
+padding: 0;
+border: 3px;
+margin: 0;
+width: 800px;
+border-color: #6699FF;
+background-color: white;
+text-align: center;
+}
+.a{
+  vertical-align: center;
+}
+.f{
+  padding-left: 0;
+  margin: 0;
+  border-left: 0;
+  width:105px;
+}
+.c{
+background-color: #6699ff;
+}
